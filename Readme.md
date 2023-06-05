@@ -44,7 +44,7 @@ Este projeto trata-se de um desafio para fazer um layout simples de uma loja vir
 <br>
 
 ## 💻 Demonstração
-Para visualizar uma prévia do projeto <a href="#" target="_blank"><b>clique aqui</b></a>
+Para visualizar uma prévia do projeto <a href="https://eletro-shop.vercel.app/" target="_blank"><b>clique aqui</b></a>
 
 <br>
 
